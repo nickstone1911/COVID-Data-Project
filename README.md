@@ -7,4 +7,4 @@ Check out my interactive dashboard on Tableau Public:
 
 👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/nicholas.stone/viz/COVIDDashboard_17428376484760/COVIDDashboard)
 
-![Dashboard Preview](COVID_Dashboard.png)
+[![Dashboard Screenshot](COVID_Dashboard.png)]([https://public.tableau.com/views/VaccineTrends](https://public.tableau.com/app/profile/nicholas.stone/viz/COVIDDashboard_17428376484760/COVIDDashboard))
